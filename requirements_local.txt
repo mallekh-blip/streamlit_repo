@@ -1,0 +1,19 @@
+# Required packages for Big Data Streaming Analytics
+# Install with: pip install -r requirements_local.txt
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.20.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Web dashboard
+streamlit>=1.20.0
+plotly>=5.10.0
+
+# Database (SQLite is built-in Python, PostgreSQL for production)
+psycopg2-binary>=2.9.0
+
+# Optional for better performance
+numba>=0.50.0

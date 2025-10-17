@@ -1,5 +1,4 @@
-# 🚀 INSTANT RUN SCRIPT - Big Data Streaming Analytics
-# Double-click this file or run: python instant_run.py
+
 
 import subprocess
 import sys

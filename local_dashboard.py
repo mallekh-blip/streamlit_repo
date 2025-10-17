@@ -1,6 +1,4 @@
-# 🌟 STREAMLIT DASHBOARD - LOCAL WORKING VERSION
-# Run with: streamlit run local_dashboard.py
-# Works with SQLite database created by complete_system.py
+
 
 import streamlit as st
 import pandas as pd

@@ -1,7 +1,3 @@
-# 🚀 BIG DATA STREAMING ANALYTICS - LOCAL WORKING VERSION
-# Run immediately with: python complete_system.py
-# No Azure required - uses SQLite for local testing
-
 import os
 import time
 import random
